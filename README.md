@@ -1,48 +1,16 @@
-**Olá, sou Felype José 🙋‍♂️**
-==========================
+**Olá, sou Felype José 👋**
+=====================================
 
-**Desenvolvedor Web Passionado 💻**
---------------------------------
+Desenvolvedor web apaixonado 🌐💻 com experiência em:
+* **Front-end**: 🌟 HTML 📄, CSS 🎨 e JavaScript 🧮
+* **Ferramentas**: 🛠️ Git 📊, Node.js 📦 e npm 📦
+* **Frameworks**: 📚 React 🤖, Angular 📈 e Vue.js 📊
 
-Sou um desenvolvedor web com mais de 10 anos de experiência 💸, desde os 12 anos de idade 🤯. Me apaixonei pela programação e nunca mais parei de aprender 📚.
+Desde os 12 anos 🎂, estou programando e aprimorando minhas habilidades 🚀. Confira meus projetos 📁 e colaborações 🤝 aqui no GitHub 📚.
 
-**Minhas Habilidades 🎯**
-------------------------
+**Conecte-se comigo:**
+* 📱 [LinkedIn](https://www.linkedin.com)
+* 📧 [Email](mailto:seuemail@gmail.com)
+* 📊 [Portfólio](https://seusite.com)
 
-* **HTML** 📄: Criei sites e aplicativos web utilizando a linguagem de marcação mais popular do mundo 🌎.
-* **CSS** 🎨: Desenvolvi estilos e layouts personalizados para dar vida às minhas criações 🌟.
-* **JavaScript** 🤖: Trabalhei com a linguagem mais versátil do mercado, criando interações dinâmicas e funcionalidades incríveis 🚀.
-
-**Projetos e Contribuições 📈**
-------------------------------
-
-* [Link para meu projeto 1](https://...) 📊
-* [Link para meu projeto 2](https://...) 📊
-* [Link para meu projeto 3](https://...) 📊
-
-**Sobre Mim 🤝**
-----------------
-
-* **Idade:** 22 anos 🎂
-* **Localização:** Brasil 🇧🇷
-* **Interesses:** Desenvolvimento web, tecnologia, esportes e música 🎵
-
-**Redes Sociais 📱**
---------------------
-
-* [Linkedin](https://...) 👥
-* [Instagram](https://...) 📸
-* [Twitter](https://...) 🐦
-
-**Contato 📲**
--------------
-
-* **E-mail:** [felype.jose@email.com](mailto:felype.jose@email.com) 📧
-* **Telefone:** (11) 12345-6789 📞
-
-**Obrigado por visitar meu perfil! 🙏**
---------------------------------------
-
-Se você gostou do meu trabalho, sinta-se à vontade para me seguir e entrar em contato. Estou sempre disponível para novos desafios e oportunidades de colaboração 🤝.
-
-** Felype José 🙋‍♂️**
+**Lets código! 💻**
